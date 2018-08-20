@@ -12,8 +12,11 @@ Adroid          =>  7.0.0
 Compatible para dispositivos Android
 <br>
 Para desplegar el proyecto en localhost:
+<br>
 1. git clone https://github.com/PracticaInterfell/parteDosLuisEspin.git
+<br>
 2. npm install
+<br>
 3. ionic serve
 <br>
 Link video de funcionamiento:
