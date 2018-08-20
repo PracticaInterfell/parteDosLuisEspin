@@ -12,6 +12,12 @@ Adroid          =>  7.0.0
 Compatible para dispositivos Android
 <br>
 <br>
+<!DOCTYPE html>
+<html>
+<body>
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FtOFH332J7U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br>
+
+</body>
+</html>
 
