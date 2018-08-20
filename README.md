@@ -2,6 +2,7 @@
 <br>
 Segunda Parte: Aplicacion MOVIL
 <br>
+<br>
 Ionic Framework =>  3.20.0
 <br>
 Cordova         =>  8.0.0
