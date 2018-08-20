@@ -23,3 +23,6 @@ Para desplegar el proyecto en localhost:
 Link video de funcionamiento:
 <br>
 <h3>https://youtu.be/FtOFH332J7U</h3>
+<br>
+<h4> Descargar APK del link </h4>
+<h1>https://drive.google.com/file/d/1i2GTUzWHCq2mfFjO-2DVTk4tRjaMeW-x/view?usp=sharing</h1>
