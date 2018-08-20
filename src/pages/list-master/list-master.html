@@ -1,0 +1,27 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>App Movil
+      <br> by Luis Iván Espín Velasco
+      <br> {{ user.firstName }} {{ user.lastName }}
+    </ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content>
+    <ion-searchbar (ionInput)="getItems($event)"></ion-searchbar>
+  <ion-list>
+    <ion-item-sliding *ngFor="let item of data">
+      <button ion-item (click)="openItem(item)">
+        <ion-avatar item-start>
+          {{item.bookingId}}
+        </ion-avatar>
+        <h2>{{item.cliente}}</h2>
+        <p>{{item.fecha }}</p>
+        <ion-note item-end>{{item.precio}}</ion-note>
+      </button>
+
+    </ion-item-sliding>
+  </ion-list>
+</ion-content>
