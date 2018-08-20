@@ -11,6 +11,7 @@ Adroid          =>  7.0.0
 <br>
 Compatible para dispositivos Android
 <br>
+<br>
 Para desplegar el proyecto en localhost:
 <br>
 1. git clone https://github.com/PracticaInterfell/parteDosLuisEspin.git
